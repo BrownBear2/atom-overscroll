@@ -1,13 +1,12 @@
 {
   "name": "overscroll",
   "main": "./lib/overscroll",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Allow the user to scroll below the content of his file (50 lines)",
   "repository": "https://github.com/BrownBear2/atom-overscroll",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
